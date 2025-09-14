@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Harsh Raj  
 
 ## 📊 GitHub Activity Heatmap
@@ -8,6 +7,7 @@
 - 🌐 [LinkedIn](https://www.linkedin.com/in/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flags...)
 - 🏆 [Codeforces](https://codeforces.com/profile/hrsj31)
 - 💻 [CodeChef](https://www.codechef.com/users/harsh_653)
+- 📚 [LeetCode](https://leetcode.com/u/harshraj55/)
 
 ## 💻 Languages & Technologies I Like
 
