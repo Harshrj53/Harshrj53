@@ -9,3 +9,10 @@
 - 🏆 [Codeforces](https://codeforces.com/profile/hrsj31)
 - 💻 [CodeChef](https://www.codechef.com/users/harsh_653)
 
+## 💻 Languages I Like
+- Python 🐍
+- C++ ⚡
+- Java ☕
+- JavaScript 🌐
+- MATLAB 🔬
+
