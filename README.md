@@ -24,9 +24,8 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF2C2C?style=for-the-badge&logo=matlab&logoColor=white)
 ![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-FF5733?style=for-the-badge&logo=leetcode&logoColor=white)
 
-## 📊 My GitHub Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshrj53&theme=tokyo-night)
+
 
 
 
