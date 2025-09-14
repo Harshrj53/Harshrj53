@@ -26,7 +26,7 @@
 
 ## 📊 My GitHub Activity
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=tokyo-night)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Harshrj53&theme=tokyo-night)
 
 
 
