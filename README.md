@@ -9,7 +9,7 @@
 - 🌱 Currently exploring **MERN Stack & DSA**  
 - 🏆 Solving problems on **LeetCode | Codeforces | CodeChef**  
 - 🚀 Passionate about **Web Development & AI tools**  
-- 📫 Reach me at **harshraj55@gmail.com**
+- 📫 Reach me at **hrsj31@gmail.com**
 
 ---
 
@@ -73,7 +73,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7F7&lines=Full+Stack+Developer;Competitive+Programmer;MERN+Stack+Learner" />
 </p>
-
 
 
 
