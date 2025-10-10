@@ -69,7 +69,7 @@
 
 ---
 
-## 🎯 Fun Touch  
+ 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7F7&lines=Full+Stack+Developer;Competitive+Programmer;MERN+Stack+Learner" />
 </p>
