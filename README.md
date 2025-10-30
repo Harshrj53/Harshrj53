@@ -108,7 +108,7 @@ I’m passionate about solving real-world problems through technology — buildi
 
 ## 🌐 Connect With Me
 <h3 align="center">
-  <a href="https://www.linkedin.com/in/harshraj53/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="[https://www.linkedin.com/in/harshraj53/](https://www.linkedin.com/in/harsh-raj-6ba14830b/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://codeforces.com/profile/hrsj31"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
   <a href="https://www.codechef.com/users/harsh_653"><img src="https://img.shields.io/badge/CodeChef-bb5e00?style=for-the-badge&logo=codechef&logoColor=white"/></a>
   <a href="https://leetcode.com/u/harshraj55/"><img src="https://img.shields.io/badge/LeetCode-ffa116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
