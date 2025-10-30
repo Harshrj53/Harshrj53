@@ -13,18 +13,7 @@
 <img src="https://raw.githubusercontent.com/AryanVBW/AryanVBW/refs/heads/main/line.gif"/>
 
 ---
-<!-- Typing SVG Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%7C+Tech+Problem+Solver+%F0%9F%92%A1;MERN+Stack+Learner+%7C+Competitive+Programmer;Always+Learning+New+Things+🚀" alt="Typing SVG" />
-</p>
 
-<h2 align="center">
-  🤖 | ⚡ | 🎯 | 👨‍💻 | 🧠
-</h2>
-
-<img src="https://raw.githubusercontent.com/AryanVBW/AryanVBW/main/line.gif"/>
-
----
 
 # 👋 Hi, I'm Harsh Raj  
 💻 **MERN Stack Learner | Competitive Programmer | Tech Explorer**
