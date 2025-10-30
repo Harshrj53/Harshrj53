@@ -1,20 +1,18 @@
-<!-- ✨ Stylish GitHub Profile README -->
-
 <!-- Profile Header GIF -->
-<h3 align="center">
-  <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" width="500" height="400" alt="AI Dev GIF"/>
-</h3>
+<p align="center">
+  ![AI Dev GIF](https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif)
+</p>
 
 <!-- Typing SVG Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%7C+Tech+Problem+Solver+%F0%9F%92%A1;MERN+Stack+Learner+%7C+Competitive+Programmer;Always+Learning+New+Things+🚀" alt="Typing SVG" />
-</h1>
+<p align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%7C+Tech+Problem+Solver+%F0%9F%92%A1;MERN+Stack+Learner+%7C+Competitive+Programmer;Always+Learning+New+Things+🚀)](https://git.io/typing-svg)
+</p>
 
 <h2 align="center">
   🤖 | ⚡ | 🎯 | 👨‍💻 | 🧠
 </h2>
 
-<img src="https://raw.githubusercontent.com/AryanVBW/AryanVBW/refs/heads/main/line.gif"/>
+<img src="https://raw.githubusercontent.com/AryanVBW/AryanVBW/main/line.gif"/>
 
 ---
 
@@ -103,10 +101,11 @@
 ---
 
 <h2 align="center">
-  <b>⚡ Let’s Build Something Amazing Together! ⚡</b>
+  ⚡ Let’s Build Something Amazing Together! ⚡
 </h2>
 
-<h1 align="center">
+<p align="center">
   <img src="https://github.com/Harshrj53/Harshrj53/blob/output/github-snake.svg" alt="GitHub Snake Animation"/>
-</h1>
+</p>
+
 
