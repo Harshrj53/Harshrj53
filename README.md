@@ -1,9 +1,11 @@
 <!-- ✨ Stylish & Professional GitHub Profile README -->
 
 <!-- Profile Header GIF -->
+<!-- Typing SVG Header -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" width="500" height="400" alt="AI Dev GIF" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%7C+Tech+Problem+Solver+%F0%9F%92%A1;MERN+Stack+Learner+%7C+Competitive+Programmer;Always+Learning+New+Things+🚀" alt="Typing SVG" />
 </p>
+
 
 <!-- Typing SVG Header -->
 <p align="center">
