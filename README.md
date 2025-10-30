@@ -1,7 +1,7 @@
-<!-- ✨ Stylish GitHub Profile README -->
+<!-- ✨ Stylish & Professional GitHub Profile README -->
 
 <h3 align="center">
-  <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" width="500" height="400" alt="AI Dev GIF"/>
+  <img src="https://i.pinimg.com/originals/47/e7/ae/47e7ae5f1f3bb06af7a88f5f08f3d3eb.gif" width="500" height="400" alt="Tech Wave GIF"/>
 </h3>
 
 <h1 align="center">
@@ -47,19 +47,34 @@
 ---
 
 ## 🚀 Featured Projects  
-- [🌐 Portfolio Website](https://github.com/Harshrj53/portfolio) — Personal website built with React + Tailwind  
-- [📚 DSA Tracker](https://github.com/Harshrj53/dsa-tracker) — Full-stack app for tracking & solving DSA problems  
-- [🤖 AI Study Buddy](https://github.com/Harshrj53/ai-study-buddy) — React Native app for smart note-taking and study assistance  
-
----
-
-## 🌐 Connect With Me  
-<p align="center">
-<a href="https://linkedin.com/in/harsh-raj-6ba14830b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/hrsj31" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3521352-2944796.png" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/harsh_653" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-codechef-3521529-2944987.png" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/harshraj55/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30" width="40" /></a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Harshrj53/portfolio">
+        <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="200" alt="Portfolio"/>
+        <br><b>🌐 Portfolio Website</b>
+      </a>
+      <br>
+      <i>Personal website built with React + Tailwind</i>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Harshrj53/dsa-tracker">
+        <img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/coding.gif" width="200" alt="DSA Tracker"/>
+        <br><b>📚 DSA Tracker</b>
+      </a>
+      <br>
+      <i>Full-stack app for tracking & solving DSA problems</i>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Harshrj53/ai-study-buddy">
+        <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/9c88e8a03db8c26ab7cf9cb42d15e8f5.gif" width="200" alt="AI Study Buddy"/>
+        <br><b>🤖 AI Study Buddy</b>
+      </a>
+      <br>
+      <i>React Native app for smart note-taking and study assistance</i>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -82,9 +97,25 @@
 
 ---
 
+## 🌐 Connect With Me  
+<p align="center">
+<a href="https://linkedin.com/in/harsh-raj-6ba14830b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/hrsj31" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3521352-2944796.png" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/harsh_653" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-codechef-3521529-2944987.png" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/harshraj55/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30" width="40" /></a>
+</p>
+
+---
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7F7&lines=Full+Stack+Developer;Competitive+Programmer;MERN+Stack+Learner" />
 </p>
+
+---
+
+<h2 align="center">
+  <b>“Building products that make a difference 🚀”</b>
+</h2>
 
 
 
