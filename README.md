@@ -4,8 +4,11 @@
 </h3>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Competitive-Programmer +%7C+Full-Stack+Developer+%F0%9F%92%A1" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Competitive%20Programmer%20%7C%20Full-Stack%20Developer%20%F0%9F%92%A1"
+    alt="Typing SVG" />
 </h1>
+
 
 <h2 align="center">
   🤖 | ⚡ | 🎯 | 👨‍💻 | 🧠
