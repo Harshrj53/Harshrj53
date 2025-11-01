@@ -105,9 +105,9 @@
 <h2 align="center">
   ⚡ Let’s Build Something Amazing Together! ⚡
 </h2>
-
 <p align="center">
-  <img src="https://github.com/Harshrj53/Harshrj53/blob/output/github-snake.svg" alt="GitHub Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/Harshrj53/Harshrj53/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 
