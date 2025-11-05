@@ -1,13 +1,13 @@
 <!-- Profile Header with GIF -->
+<!-- Profile Header with GIF -->
 <div align="center">
-  <div align="center">
   <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" width="400" />
 
   <br/>
 
   <img src="https://m.media-amazon.com/images/M/MV5BODIyMDdhYzEtNmYwMi00YzU1LTk5NDktY2MxY2JlN2NiZmIwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" width="400" />
 </div>
-</div>
+
 
 
 
