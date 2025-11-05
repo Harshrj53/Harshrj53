@@ -1,10 +1,7 @@
 <!-- Profile Header with GIF -->
 <!-- Profile Header with GIF -->
 <div align="center">
-  <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" width="400" />
-
-  <br/>
-
+ 
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Cars_2006.jpg/800px-Cars_2006.jpg" width="400" />
 </div>
 
