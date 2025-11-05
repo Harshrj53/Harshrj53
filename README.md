@@ -1,7 +1,9 @@
 <!-- Profile Header with GIF -->
-<h3 align="center">
-  <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" width="500" height="400" alt="AI Dev GIF"/>
-</h3>
+<div align="center">
+  <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" width="350" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/34/Cars_2006.jpg" width="350" />
+</div>
+
 
 <h1 align="center">
   <img
@@ -101,9 +103,7 @@
 </h3>
 
 ---
-  <img
-    src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Competitive%20Programmer%20%7C%20Full-Stack%20Developer%20%F0%9F%92%A1](https://upload.wikimedia.org/wikipedia/en/3/34/Cars_2006.jpg)"
-    alt="Typing SVG" />
+
 
 <h2 align="center">
   ⚡ Let’s Build Something Amazing Together! ⚡
