@@ -1,10 +1,22 @@
 <!-- Profile Header with GIF -->
 <!-- Profile Header with GIF -->
-<div align="center">
- 
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Cars_2006.jpg/800px-Cars_2006.jpg" width="400" />
-</div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Harshrj53)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+<p align="center">
+  <a href="https://github.com/Harshrj53/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=Harshrj53&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="harsh stats" /></picture></a>
+  <a href="https://github.com/Harshrj53/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=Harshrj53&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshrj53" alt="GitHub Streak" />
+</p>
+
+
+<p align="center">
+  <a href="https://holopin.io/@Harshrj53" target="_blank">
+    <img src="https://holopin.me/Harshrj53" alt="Holopin badge board" />
+  </a>
+</p>
 
 
 
@@ -113,22 +125,6 @@
   ⚡ Let’s Build Something Amazing Together! ⚡
 </h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=harshitydv1)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-<p align="center">
-  <a href="https://github.com/harshitydv1/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=harshitydv1&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="harshit stats" /></picture></a>
-  <a href="https://github.com/harshitydv1/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=harshitydv1&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitydv1" alt="GitHub Streak" />
-</p>
-
-
-<p align="center">
-  <a href="https://holopin.io/@harshitydv1" target="_blank">
-    <img src="https://holopin.me/harshitydv1" alt="Holopin badge board" />
-  </a>
-</p>
 
 
 
