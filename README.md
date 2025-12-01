@@ -69,7 +69,7 @@
       <p>Full-stack app for solving & tracking DSA problems</p>
     </td>
     <td align="center">
-      <a href="[https://github.com/Harshrj53/ai-study-buddy](https://github.com/Harshrj53/AI_PROJECT.git)">
+      <a href="https://github.com/Harshrj53/AI_PROJECT.git">
         <img src="https://cdn-icons-png.flaticon.com/512/4712/4712100.png" width="120" alt="AI Study Buddy"/>
         <br><h3>🤖 AI Study Buddy</h3>
       </a>
