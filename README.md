@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Competitive%20Programmer%20%7C%20Full-Stack%20Developer%20💡" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Competitive+Programmer+%7C+Full-Stack+Developer" />
 </h1>
 
 <h3 align="center">🤖 | ⚡ | 🎯 | 👨‍💻 | 🧠</h3>
@@ -38,7 +38,7 @@
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harshrj53&theme=tokyonight&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Harshrj53&theme=onedark&no-frame=true&margin-w=10" />
 </p>
 
 ---
