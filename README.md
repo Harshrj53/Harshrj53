@@ -38,7 +38,7 @@
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harshrj53&theme=onedark&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=Harshrj53" />
 </p>
 
 ---
